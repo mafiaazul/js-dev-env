@@ -19,7 +19,7 @@ export const schema = {
           },
           "lastName": {
             "type": "string",
-            "faker": "name.lastName"
+            "faker": "name.lastName",
           },
           "email": {
             "type": "string",
