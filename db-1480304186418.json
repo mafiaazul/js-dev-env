@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 64005227,
+      "firstName": "Alan",
+      "lastName": "Kiehn",
+      "email": "Mathew_Rutherford13@hotmail.com"
+    },
+    {
+      "id": 48878292,
+      "firstName": "Rebecca",
+      "lastName": "Berge",
+      "email": "Brown99@yahoo.com"
+    },
+    {
+      "id": 1563276,
+      "firstName": "Gretchen",
+      "lastName": "Franecki",
+      "email": "Aracely.Williamson@yahoo.com"
+    },
+    {
+      "id": 68087448,
+      "firstName": "Yoshiko",
+      "lastName": "Brakus",
+      "email": "Freda36@hotmail.com"
+    }
+  ]
+}

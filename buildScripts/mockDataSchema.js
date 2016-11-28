@@ -1,5 +1,5 @@
 export const schema = {
-  "type": "obejct",
+  "type": "object",
   "properties": {
     "users": {
       "type": "array",
@@ -19,7 +19,7 @@ export const schema = {
           },
           "lastName": {
             "type": "string",
-            "faker": "name.lastName"
+            "faker": "name.lastName",
           },
           "email": {
             "type": "string",
