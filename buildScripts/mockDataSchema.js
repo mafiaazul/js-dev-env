@@ -1,5 +1,5 @@
 export const schema = {
-  "type": "obejct",
+  "type": "object",
   "properties": {
     "users": {
       "type": "array",
